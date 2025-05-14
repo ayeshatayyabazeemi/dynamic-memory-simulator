@@ -37,7 +37,6 @@ This project simulates **dynamic memory allocation and deallocation** in a syste
 ## 🧪 Sample Input
 ![image](https://github.com/user-attachments/assets/61727239-404b-4566-919d-6babf63a2f0c)
 
-
 📊 Output Example
 ![image](https://github.com/user-attachments/assets/bcd0393a-52fa-4336-9ddb-8376ed1263af)
 ![image](https://github.com/user-attachments/assets/d82c7120-1657-4726-a379-37c32f4df839)
