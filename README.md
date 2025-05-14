@@ -35,26 +35,12 @@ This project simulates **dynamic memory allocation and deallocation** in a syste
 ---
 
 ## 🧪 Sample Input
-Enter total size of Main Memory (in MB): 100
-Enter process details (arrival_time size end_time), enter -1 to stop:
-Process 1: 0 30 5
-Process 2: 2 50 6
-Process 3: 3 40 7
-Process 4: -1
+![image](https://github.com/user-attachments/assets/61727239-404b-4566-919d-6babf63a2f0c)
+
 
 📊 Output Example
-gcc memory_simulator.c -o memory_simulator
-./memory_simulator
-Allocated Process 1 at time 0
-Allocated Process 2 at time 2
-Failed to allocate Process 3 at time 3 (Not enough memory)
-Deallocated Process 1 at time 5
-Allocated Process 3 at time 5
-...
-Simulation Complete!
+![image](https://github.com/user-attachments/assets/bcd0393a-52fa-4336-9ddb-8376ed1263af)
+![image](https://github.com/user-attachments/assets/d82c7120-1657-4726-a379-37c32f4df839)
 
---- Process Size Statistics ---
-Max Process Size Entered: 50MB
-Min Process Size Entered: 30MB
-Average Process Size Entered: 40.00MB
+
 
